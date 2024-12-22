@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: '网页收藏',
   domain: 'https://bookmark.cl96.top/sitemap.xml',
-  author: chenglong',
+  author: 'chenglong',
 
   // open graph metadata (optional)
   description: 'chenglong的网页收藏',
